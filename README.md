@@ -23,6 +23,7 @@ Uml Design:
 
 
 
+![uml design-1](https://user-images.githubusercontent.com/85967962/177026551-82ef4d55-6aab-4578-b2fc-47fbb7d1d4c9.jpg)
 
 
 
@@ -47,5 +48,6 @@ Uml Design:
 
 
 Application Designs
+![UI Design](https://user-images.githubusercontent.com/85967962/177026559-4314cb2d-27d4-4cf4-904a-8b3cda9b4c69.jpg)
 
 
